@@ -42,3 +42,6 @@ An automatic IT Help desk ticketing system that utilizes Google Forms, Google Sh
 - High: User cannot work, system is down
 - Medium: Hinders performance but can still work
 - Low: Minor inconvenience, not urgent
+
+## Screenshots
+<img width="763" height="832" alt="image" src="https://github.com/user-attachments/assets/d925de38-0b4f-4de8-995c-aeb3aa12dac3" />
