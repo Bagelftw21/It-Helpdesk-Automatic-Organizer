@@ -46,6 +46,6 @@ An automatic IT Help desk ticketing system that utilizes Google Forms, Google Sh
 ## Screenshots
 <img width="763" height="832" alt="image" src="https://github.com/user-attachments/assets/d925de38-0b4f-4de8-995c-aeb3aa12dac3" />
 
-<img width="959" height="912" alt="image" src="https://github.com/user-attachments/assets/638701ed-b2bd-42b9-9137-201b35dbc648" />
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/45e028ee-6041-4fb1-adcd-9ae54df81975" />
 
 <img width="902" height="908" alt="image" src="https://github.com/user-attachments/assets/7097e39f-b4d3-4dd0-81f7-ff937c4a5caf" />
