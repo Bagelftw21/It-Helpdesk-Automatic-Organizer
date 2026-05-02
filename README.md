@@ -43,7 +43,16 @@ An automatic IT Help desk ticketing system that utilizes Google Forms, Google Sh
 - Medium: Hinders performance but can still work
 - Low: Minor inconvenience, not urgent
 
+## Color
+- Color coordinated each prioirty based off their prioirty and if the ticket has been closed
+- Red: High priority
+- Orange: Medium priority
+- Yellow: Low priority
+- Green: Ticket is closed
+  
 ## Screenshots
+(I blocked some of the email since they are real personal emails, so thats why in the screenshots they are not appearing)
+
 <img width="763" height="832" alt="image" src="https://github.com/user-attachments/assets/d925de38-0b4f-4de8-995c-aeb3aa12dac3" />
 
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/45e028ee-6041-4fb1-adcd-9ae54df81975" />
