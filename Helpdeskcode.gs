@@ -1,4 +1,4 @@
-const ANTHROPIC_API_KEY = "Enter-your_API-key";
+const ANTHROPIC_API_KEY = "Enter-your-API-key";
 const OUTPUT_SHEET_NAME = "Organized Tickets";
 
 function onFormSubmit(e) {
