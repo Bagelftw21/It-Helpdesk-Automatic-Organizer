@@ -27,4 +27,18 @@ An automatic IT Help desk ticketing system that utilizes Google Forms, Google Sh
 1. Create a Google Form with the prompts: 'Your name', 'Your Email', 'Department', and 'Your Issue' (Try to enforce to be as detailed as possible while typing your issue to ensure the most accurate response).
 2. Once done with the Google Form, link it to a Google Sheet
 3. Go to that Google Sheet you linked, then open Extensions -> Apps Script then past the code from helpdeskcode.gs
-4. Where it says "const ANTRHOPIC_API_KEY = '
+4. Where it says "const ANTRHOPIC_API_KEY = 'Enter-your-API-key'" enter your Antrhopic API key
+5. Run setupTrigger() to start the automation
+
+## Categories
+- Hardware
+- Software
+- Account/Access
+- Network
+- Serivce
+- Security
+
+## Priority Levels
+- High: User cannot work, system is down
+- Medium: Hinders performance but can still work
+- Low: Minor inconvenience, not urgent
